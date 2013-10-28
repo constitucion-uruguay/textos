@@ -1,4 +1,4 @@
-Textos constitucionales de Uruguay
+Textos Constitucionales de Uruguay
 ==================================
 
 Preámbulo
