@@ -63,6 +63,7 @@ Iniciativas similares
 [c1918]: https://github.com/constitucion-uruguay/textos/blob/master/1918.md
 [c1934]: https://github.com/constitucion-uruguay/textos/blob/master/1934.md
 [c1942]: https://github.com/constitucion-uruguay/textos/blob/master/1942.md
+[c1952]: https://github.com/constitucion-uruguay/textos/blob/master/1952.md
 [c1967]: https://github.com/constitucion-uruguay/textos/blob/master/1967.md
 [c2004]: https://github.com/constitucion-uruguay/textos/blob/master/vigente.md
 [parl]: http://www.parlamento.gub.uy/
