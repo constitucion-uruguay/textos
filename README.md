@@ -52,7 +52,7 @@ Disclaimer
 ----------
 
 Sitio no oficial. Se ha hecho todo lo posible para garantizar la fidelidad de la
-información, pero no garantizamos su corrección ni si completitud.
+información, pero no garantizamos su corrección ni su completitud.
 
 Iniciativas similares
 ---------------------
