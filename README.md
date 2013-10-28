@@ -59,6 +59,11 @@ Iniciativas similares
 
 - [Leyes Generales y Regulaciones Federales de Alemania en Github][gesetze]
 
+Contacto
+--------
+
+Twitter: [@ConstitucionUy](https://twitter.com/ConstitucionUy)
+
 [c1830]: https://github.com/constitucion-uruguay/textos/blob/master/1830.md
 [c1918]: https://github.com/constitucion-uruguay/textos/blob/master/1918.md
 [c1934]: https://github.com/constitucion-uruguay/textos/blob/master/1934.md
